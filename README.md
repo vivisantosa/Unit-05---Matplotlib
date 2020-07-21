@@ -1,10 +1,9 @@
-<img src="/Images/Laboratory.jpg" width="1080">
-
 # PyPymaceuticals
+<img src="/Images/Laboratory.jpg" width="1080">
 
 By Vivianti Santosa
 
-The first note that I want to report is that I notice on the contrary of what was stated in the introduction, there were actually 250 mice in the study, however one set of data for a mice that is part of the Stelasyn study got messed up with the one from Propriva. Because there is no way I would know which mouse belongs to which study, I decided to drop both. <br>
+The first observation that I want to report is that I notice on the contrary of what was stated in the introduction, there were actually 250 mice in the study, however one set of data for a mice that is part of the Stelasyn study got messed up with the one from Propriva. Because there is no way I would know which mouse belongs to which study, I decided to drop both. <br>
 
 The summary statistics for the tumor volume are as follow :<br>
 <img src="/Images/Table1.png" width="360">
