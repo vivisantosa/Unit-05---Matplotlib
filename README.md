@@ -1,5 +1,7 @@
 <img src="/Images/Laboratory.jpg" width="1080">
+
 # PyPymaceuticals
+
 By Vivianti Santosa
 
 The first note that I want to report is that I notice on the contrary of what was stated in the introduction, there were actually 250 mice in the study, however one set of data for a mice that is part of the Stelasyn study got messed up with the one from Propriva. Because there is no way I would know which mouse belongs to which study, I decided to drop both. <br>
@@ -8,19 +10,19 @@ The summary statistics for the tumor volume are as follow :<br>
 <img src="/Images/Table1.png" width="360">
 
 We are asked to create a bar chart, to show the number of mice that survive the study. From the guidance of our instructor, here is the chart that is being expected by the report :<br>
-<img src="/Images/Bar2.png" width="720">
+<img src="/Images/Bar2.png" width="600">
 
 However in my opinion, the above chart is not a good representation for the information because the total number of mice observed here is the total of the number of the same mice being observed at different times. <br>
 For each treatment we have max 25 mice that die along the study, and thus the number decreases on each observation, and thus the number here is not a real number. The chart that I am presenting in the next page, though crowded, is a better representation of the data.<br>
-<img src="/Images/Bar4.png" width="720">
+<img src="/Images/Bar4.png" width="900">
 
 In this chart we can see clearly that over the time more mice from Capomulini and Ramicane survived the study. <br>
 
 However, since this is actually a time base data, line graphs like in below are the more appropriate charts to showcase the information.<br>
-<img src="/Images/Bar7.png" width="720">
+<img src="/Images/Bar7.png" width="480">
 
 The next chart that is a pie chart that shows that there both gender is approximately equally represented in this study.<br>
-<img src="/Images/Pie2.png" width="720">
+<img src="/Images/Pie2.png" width="600">
 
 As being requested, I evaluate for potential outliers, both from quantitative method and from boxplot. Instead of only focusing on the drug regiments of interest, I evaluated the whole study. The result is as follow :<br>
 <img src="/Images/Plot1.png" width="720">
@@ -39,7 +41,7 @@ The last study is about the correlation between the mouse weight and the size of
 
 In conclusion, the drug Capomulin clearly has positive results as can be seen as the least number of mice dying as well as the reduction size of tumor, as can be seen in the average tumor size and the tumor size at the end of the study. Although it is not conclusive if it is superior to Ramicane, which produces slightly better results, although it lost one more mouse by the end of the study period.<br>
 
-<img src="/Images/Table3.png" width="360">  <img src="/Images/Bar6.png" width="480">
+<img src="/Images/Table3.png" width="240">  <img src="/Images/Bar6.png" width="480">
                 
 As for the learning point of MatPlotLib - Various charts that I can create in Matplotlib and Pandas enable my audiences to see data more clearly and help them in decision making. However the right data and the right type of charts need to be chosen to represent data in meaningful ways and to highlight the points that we want to show. <br>
 
