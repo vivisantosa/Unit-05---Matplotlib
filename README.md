@@ -30,14 +30,14 @@ As being requested, I evaluate for potential outliers, both from quantitative me
 As can be seen here, most of the result of the study is within the range. There is only one incident of outlier in Infubinol. 
 It can also be observed here clearly that Capomulini and Ramicane are the only drugs that reduce the size of the tumors. 
 From the data of the overall study we chose the data and created a boxplot chart of the four drug regimens  of interest. Here we can also see that Capomilin and Ramicane are superior to Ceftamin and Infubinol.<br>
-<img src="/Images/Plot2.png" width="680">
+<img src="/Images/Plot2.png" width="600">
 
 Within the study of Capomulin, mice experience reduction and enlargement size of tumor as can be seen in the sample graph (of one mouse) and overall graph of the tumor volume over study time.
 <img src="/Line1.png" width="480"><br>
 <img src="/Images/Line3.png" width="480">    <img src="/Images/Line2.png" width="480">
 
 The last study is about the correlation between the mouse weight and the size of the tumors.The correlation coefficient is 0.84, which means that there is a strong relation between the size of tumors and the weight of the mouse. The slope is 0.95, which means there is a positive relation between the mice weights and the size of the tumors. <br>
-<img src="/Images/Scatter3.png" width="540">
+<img src="/Images/Scatter3.png" width="600">
 
 In conclusion, the drug Capomulin clearly has positive results as can be seen as the least number of mice dying as well as the reduction size of tumor, as can be seen in the average tumor size and the tumor size at the end of the study. Although it is not conclusive if it is superior to Ramicane, which produces slightly better results, although it lost one more mouse by the end of the study period.<br>
 
