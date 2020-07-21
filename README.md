@@ -25,14 +25,14 @@ The next chart that is a pie chart that shows that there both gender is approxim
 
 As being requested, I evaluate for potential outliers, both from quantitative method and from boxplot. Instead of only focusing on the drug regiments of interest, I evaluated the whole study. The result is as follow :<br>
 <img src="/Images/Plot1.png" width="720">
-<img src="/Images/Table2.png" width="680">
+<img src="/Images/Table2.png" width="650">
 
 As can be seen here, most of the result of the study is within the range. There is only one incident of outlier in Infubinol. 
 It can also be observed here clearly that Capomulini and Ramicane are the only drugs that reduce the size of the tumors. 
 From the data of the overall study we chose the data and created a boxplot chart of the four drug regimens  of interest. Here we can also see that Capomilin and Ramicane are superior to Ceftamin and Infubinol.<br>
-<img src="/Images/ERD.png" width="720">
+<img src="/Images/Plot2.png" width="680">
 
-Within the study of Capomulin, mice experience reduction and enlargement size of tumor as can be seen in the sample graph (of one mouse) and overall graph of the tumor volume over study time<br>
+Within the study of Capomulin, mice experience reduction and enlargement size of tumor as can be seen in the sample graph (of one mouse) and overall graph of the tumor volume over study time
 <img src="/Line1.png" width="480">  <img src="/Images/Line2.png" width="480">
 
 The last study is about the correlation between the mouse weight and the size of the tumors.The correlation coefficient is 0.84, which means that there is a strong relation between the size of tumors and the weight of the mouse. The slope is 0.95, which means there is a positive relation between the mice weights and the size of the tumors. <br>
@@ -40,7 +40,7 @@ The last study is about the correlation between the mouse weight and the size of
 
 In conclusion, the drug Capomulin clearly has positive results as can be seen as the least number of mice dying as well as the reduction size of tumor, as can be seen in the average tumor size and the tumor size at the end of the study. Although it is not conclusive if it is superior to Ramicane, which produces slightly better results, although it lost one more mouse by the end of the study period.<br>
 
-<img src="/Images/Table3.png" width="300">    <img src="/Images/Bar6.png" width="400"><br>
+<img src="/Images/Table3.png" width="280">    <img src="/Images/Bar6.png" width="400"><br>
                 
 As for the learning point of MatPlotLib - Various charts that I can create in Matplotlib and Pandas enable my audiences to see data more clearly and help them in decision making. However the right data and the right type of charts need to be chosen to represent data in meaningful ways and to highlight the points that we want to show. <br>
 
