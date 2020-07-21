@@ -18,10 +18,10 @@ For each treatment we have max 25 mice that die along the study, and thus the nu
 In this chart we can see clearly that over the time more mice from Capomulini and Ramicane survived the study. <br>
 
 However, since this is actually a time base data, line graphs like in below are the more appropriate charts to showcase the information.<br>
-<img src="/Images/Bar7.png" width="480">
+<img src="/Images/Bar7.png" width="400"> <br>
 
 The next chart that is a pie chart that shows that there both gender is approximately equally represented in this study.<br>
-<img src="/Images/Pie2.png" width="600">
+<img src="/Images/Pie2.png" width="480">
 
 As being requested, I evaluate for potential outliers, both from quantitative method and from boxplot. Instead of only focusing on the drug regiments of interest, I evaluated the whole study. The result is as follow :<br>
 <img src="/Images/Plot1.png" width="720">
@@ -40,7 +40,7 @@ The last study is about the correlation between the mouse weight and the size of
 
 In conclusion, the drug Capomulin clearly has positive results as can be seen as the least number of mice dying as well as the reduction size of tumor, as can be seen in the average tumor size and the tumor size at the end of the study. Although it is not conclusive if it is superior to Ramicane, which produces slightly better results, although it lost one more mouse by the end of the study period.<br>
 
-<img src="/Images/Table3.png" width="240">  <img src="/Images/Bar6.png" width="480">
+<img src="/Images/Table3.png" width="300">    <img src="/Images/Bar6.png" width="400"><br>
                 
 As for the learning point of MatPlotLib - Various charts that I can create in Matplotlib and Pandas enable my audiences to see data more clearly and help them in decision making. However the right data and the right type of charts need to be chosen to represent data in meaningful ways and to highlight the points that we want to show. <br>
 
