@@ -18,13 +18,13 @@ For each treatment we have max 25 mice that die along the study, and thus the nu
 In this chart we can see clearly that over the time more mice from Capomulini and Ramicane survived the study. <br>
 
 However, since this is actually a time base data, line graphs like in below are the more appropriate charts to showcase the information.<br>
-<img src="/Images/Bar7.png" width="400"> <br>
+<img src="/Images/Bar7.png" width="360"> <br>
 
 The next chart that is a pie chart that shows that there both gender is approximately equally represented in this study.<br>
 <img src="/Images/Pie2.png" width="480">
 
 As being requested, I evaluate for potential outliers, both from quantitative method and from boxplot. Instead of only focusing on the drug regiments of interest, I evaluated the whole study. The result is as follow :<br>
-<img src="/Images/Plot1.png" width="720">
+<img src="/Images/Plot1.png" width="720"><br>
 <img src="/Images/Table2.png" width="650">
 
 As can be seen here, most of the result of the study is within the range. There is only one incident of outlier in Infubinol. 
@@ -33,7 +33,8 @@ From the data of the overall study we chose the data and created a boxplot chart
 <img src="/Images/Plot2.png" width="680">
 
 Within the study of Capomulin, mice experience reduction and enlargement size of tumor as can be seen in the sample graph (of one mouse) and overall graph of the tumor volume over study time
-<img src="/Line1.png" width="480">  <img src="/Images/Line2.png" width="480">
+<img src="/Line1.png" width="480"><br>
+<img src="/Images/Line3.png" width="480">    <img src="/Images/Line2.png" width="480">
 
 The last study is about the correlation between the mouse weight and the size of the tumors.The correlation coefficient is 0.84, which means that there is a strong relation between the size of tumors and the weight of the mouse. The slope is 0.95, which means there is a positive relation between the mice weights and the size of the tumors. <br>
 <img src="/Images/Scatter3.png" width="600">
